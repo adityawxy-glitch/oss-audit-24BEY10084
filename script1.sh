@@ -1,4 +1,5 @@
 #!/bin/bash
+
 # Script 1: System Identity Report
 # Author: Prashant Kumar
 # Registration Number: 24BEY10084
