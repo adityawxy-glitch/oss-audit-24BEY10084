@@ -4,9 +4,13 @@ Student Details
 
 Field	Value
 Name: Prashant Kumar
+
 Registration Number:	24BEY10084
+
 Course	Open Source Software (NGMC)
+
 Date	March 31, 2026
+
 Chosen Software
 Firefox – Open source web browser by Mozilla
 
